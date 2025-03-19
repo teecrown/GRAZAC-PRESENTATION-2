@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    
+    background-color: black;
+    color: white;
+    background-image: url(./x\ \(1\).png);
+}
+.whole{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 148px;
+}
+
+.words h3{
+    width: 785px;
+    height: 59px;
+    margin-top: 342px;
+    padding-left: 194px;
+    text-align: center;
+    justify-content: center;
+    font-family: Poppins;
+font-weight: 500px;
+font-size: 70px;
+
+}
+.words p{width: 595px;
+    height: 258px;
+    margin-top: 82px;
+    text-align: center;
+    padding-left: 330px;
+    padding-top: 50px;
+
+}
+.header{
+    text-align: center;
+    font-family: Poppins;
+font-weight: 500;
+font-size: 50px;
+line-height: 75px;
+letter-spacing: 0%;
+color: #271919;
+}
+
+.subheading{
+    font-family: Inter;
+    padding-top: 28px;
+font-weight: 300;
+font-size: 15px;
+line-height: 18.15px;
+
+text-align: center;
+color: black;
+}
+
+.form-container{
+    width: 611px;
+    height: 861px;
+    margin-top: 111px;
+    margin-right: 182px;
+    padding-top: 60px;
+    background-color:#ffffff;
+    border-radius: 30px;
+    justify-items: center;
+}
+
+.header{width: 545px;
+    height: 59px;
+    font-size: 50px;
+    padding-bottom: 10px;
+
+}
+.lost h5{
+    color:black;
+    width: 433px;
+    height: 30px;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 7px;
+    padding-left: 50px;
+}
+
+.form-control input{
+    width: 455px;
+    height: 60.9px ;
+    /* gap: 50px; */
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 23.1px;
+background-color: #EAEAEA;
+}
+
+.form-control{
+    padding-bottom: 20px;
+    padding-left: 75px;
+}
+
+
+.payment{
+    margin-right: 188px;
+    margin-left: 163px;
+    background-color: red;
+width: 260px;
+height: 60px;
+border-radius: 20px;
+margin-bottom: 63px;
+
+}

@@ -1,0 +1,28 @@
+*{margin: 0;
+    padding: 0;
+box-sizing: border-box;
+background-image: url(/x\ \(1\).png);
+background-color: black;
+color: #ffffff;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
+.get-ticket{
+    background-color:#ffffff;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-left: 70px;
+    border-radius: 30px;
+    width: 800px;
+    height: 500px;
+
+}
+
+.get-ticket h3{
+    width: 40px;
+    height: 20px;
+}
